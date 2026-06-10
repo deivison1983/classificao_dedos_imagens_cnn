@@ -1,7 +1,7 @@
 # Classificação de Gestos de Mãos com Deep Learning e Redes Neurais Convolucionais (CNN)
 
 <div align="center">
-      <img src="img_readme.png" width="425" height="425">
+      <img src="img_readme.png" width="100%" height="100%">
 </div>  
 
 ## Sobre o Projeto
