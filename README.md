@@ -1,0 +1,1 @@
+# classificao_dedos_imagens_cnn
